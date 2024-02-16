@@ -41,7 +41,7 @@ const Login = () => {
   return (
     <>
       <h1 className="text-green-700 font-black text-6xl">Inicia Sesión y Administra tus 
-        <span className="text-gray-600"> Requerimientos</span>
+        <span className="text-gray-600"> RQ</span>
       </h1>
       {msg && <Alerta alerta={alerta}/>}
       <form 

@@ -10,7 +10,7 @@ const Sidebar = () => {
         <Link
             to="crear-requerimiento"
             className="bg-green-700 w-full p-3 text-white uppercase font-bold block mt-5 text-center rounded-lg"
-        >Nuevo RQ</Link>
+        >Nuevo Requerimiento</Link>
     </aside>
   )
 }
